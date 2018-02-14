@@ -23,5 +23,5 @@ npm run dev
 [from api folder, with a new terminal]
 nodemon server.js
 ```
-To get [Marvel API and private keys]https://developer.marvel.com/documentation/getting_started
+To get [Marvel API and private keys](https://developer.marvel.com/documentation/getting_started).
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
